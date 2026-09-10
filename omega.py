@@ -24,7 +24,7 @@ Install:
     pip install torch numpy
 
 Run:
-    python omega.py
+    python omega.py h
 
 This is a research/learning prototype, not a production AGI.
 """
@@ -48,9 +48,7 @@ import torch.nn.functional as F
 from torch.distributions import Categorical
 
 
-# ============================================================
 # GLOBAL CONFIG
-# ============================================================
 
 @dataclass
 class Config:
