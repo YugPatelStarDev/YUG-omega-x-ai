@@ -26,7 +26,7 @@ Install:
 Run:
     python omega.py
 
-This is a research/learning prototype, not a production AGI.
+This is a research/learning prototype, ofc not a production AGI.
 """
 
 from __future__ import annotations
