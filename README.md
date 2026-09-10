@@ -1,4 +1,4 @@
- OMEGA-X AI
+OMEGA-X AI
 YugPatelStarDev presents: an unnecessarily powerful AI/ML laboratory.
 What happens when you throw Transformers, computer vision, neural memory, anomaly detection, forecasting, reinforcement learning, autonomous planning, and self-criticism into one machine?
 
